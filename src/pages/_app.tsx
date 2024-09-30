@@ -1,5 +1,5 @@
 import { type AppType } from "next/dist/shared/lib/utils";
-
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import "@/styles/globals.css";
 import "@/styles/locomotive-scroll.css";
 
