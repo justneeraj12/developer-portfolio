@@ -62,39 +62,39 @@ const projects = [
     title: "This website",
     description: "My personal website",
     image: "/assets/portfolio.webm",
-    href: "https://github.com/wendoj/portfolio",
+    href: "https://github.com/justneeraj12/portfolio",
   },
 ];
 
 const services = [
   {
-    service: "Frontend Development",
+    service: "AI Research",
     description:
-      "Creating stellar user interfaces and web experiences using the latest technologies.",
+      "Exploring the unknown of this awesome tech.",
     icon: Code2,
   },
   {
-    service: "UX Design",
+    service: "ML and Reinforcement Learning",
     description:
-      "Building intuitive, user-centric designs that drive engagement and conversion.",
+      "Building Automated learning for applications.",
     icon: Frame,
   },
   {
-    service: "SEO Optimization",
+    service: "Robotics Research",
     description:
-      "Enhancing your website's visibility in search engines for increased organic traffic.",
+      "Taking a leap forward in the facinating field of Robotics.",
     icon: SearchCheck,
   },
   {
-    service: "Responsive Design",
+    service: "Integration & Automation",
     description:
-      "Designing websites that look and perform equally well on all devices and screen sizes.",
+      "Making these products and exciting technologies possible for everyone.",
     icon: MonitorSmartphone,
   },
   {
-    service: "Backend Development",
+    service: "Management & Development",
     description:
-      "Developing robust, scalable server-side logic for a wide range of web applications.",
+      "Developing robust, scalable teams with highly capable & talented people.",
     icon: Eye,
   },
 ];
@@ -225,7 +225,7 @@ export default function Home() {
               data-scroll-speed=".06"
               className="flex flex-row items-center space-x-1.5 pt-6"
             >
-              <Link href="mailto:wendoj@proton.me" passHref>
+              <Link href="mailto:neeraj.2xx4@gmail.com" passHref>
                 <Button>
                   Get in touch <ChevronRight className="ml-1 h-4 w-4" />
                 </Button>

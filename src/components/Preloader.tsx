@@ -25,6 +25,7 @@ const slideUp = {
 
 const words = [
   "Hello",
+  "Namaste",
   "Bonjour",
   "Ciao",
   "Olà",
