@@ -54,14 +54,14 @@ const projects = [
   },
   {
     title: "Wear&Tear Predictive Analysis of FWHs",
-    description: "ear&Tear Predictive Analysis of FWHs at NPPs.",
+    description: "Wear&Tear Predictive Analysis of FWHs at NPPs.",
     image: "/assets/FWH.gif",
     href: "https://github.com/justneeraj12/",
   },
   {
     title: "This website",
     description: "My personal website",
-    image: "/assets/portfolio.mp4",
+    image: "/assets/portfolio.webm",
     href: "https://github.com/justneeraj12",
   },
 ];
