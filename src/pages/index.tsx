@@ -47,6 +47,12 @@ const projects = [
     href: "https://github.com/justneeraj12/",
   },
   {
+    title: "This website",
+    description: "My personal website",
+    image: "/assets/portfolio.webm",
+    href: "https://github.com/justneeraj12",
+  },
+  {
     title: "EEG.",
     description: "AttnSleep: An Attention-based Deep Learning Approach for Sleep Stage Classification with Single-Channel EEG",
     image: "/assets/eeg.png",
@@ -57,12 +63,6 @@ const projects = [
     description: "Wear&Tear Predictive Analysis of FWHs at NPPs.",
     image: "/assets/FWH.gif",
     href: "https://github.com/justneeraj12/",
-  },
-  {
-    title: "This website",
-    description: "My personal website",
-    image: "/assets/portfolio.webm",
-    href: "https://github.com/justneeraj12",
   },
 ];
 
