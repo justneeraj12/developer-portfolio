@@ -35,34 +35,34 @@ const aboutStats = [
 
 const projects = [
   {
-    title: "Unqueue",
+    title: "tello",
     description: "Tello drone hand gesture control.",
     image: "/assets/tello_hand_guesture.gif",
     href: "https://github.com/justneeraj12/",
   },
   {
-    title: "InfiniteVPS",
+    title: "ros",
     description: "ROS based simulation and training.",
     image: "/assets/ROS.gif",
     href: "https://github.com/justneeraj12/",
   },
   {
-    title: "TranslateBot",
-    description: "Powerful Multilingual Translation Bot for Discord",
-    image: "/assets/translate_bot.webm",
+    title: "EEG.",
+    description: "AttnSleep: An Attention-based Deep Learning Approach for Sleep Stage Classification with Single-Channel EEG",
+    image: "/assets/eeg.png",
     href: "https://github.com/justneeraj12/",
   },
   {
-    title: "Wrona",
-    description: "Robotics-focused technology company",
-    image: "/assets/wrona.jpeg",
+    title: "Wear&Tear Predictive Analysis of FWHs",
+    description: "ear&Tear Predictive Analysis of FWHs at NPPs.",
+    image: "/assets/FWH.gif",
     href: "https://github.com/justneeraj12/",
   },
   {
     title: "This website",
     description: "My personal website",
-    image: "/assets/portfolio.webm",
-    href: "https://github.com/justneeraj12/portfolio",
+    image: "/assets/portfolio.mp4",
+    href: "https://github.com/justneeraj12",
   },
 ];
 
