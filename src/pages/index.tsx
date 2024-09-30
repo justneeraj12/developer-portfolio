@@ -28,35 +28,35 @@ import VanillaTilt from "vanilla-tilt";
 import { motion } from "framer-motion";
 
 const aboutStats = [
-  { label: "Years of experience", value: "3+" },
-  { label: "Technologies mastered", value: "5+" },
-  { label: "Companies worked with", value: "15+" },
+  { label: "Years of experience", value: "2+" },
+  { label: "Technologies mastering", value: "5+" },
+  { label: "Projects worked on", value: "10+" },
 ];
 
 const projects = [
   {
     title: "Unqueue",
-    description: "E-commerce platform for selling digital products",
-    image: "/assets/unqueue.webm",
-    href: "https://unqueue.shop/",
+    description: "Tello drone hand gesture control.",
+    image: "/assets/tello_hand_guesture.gif",
+    href: "https://github.com/justneeraj12/",
   },
   {
     title: "InfiniteVPS",
-    description: "High performance VPS hosting solution",
-    image: "/assets/infinitevps.webm",
-    href: "#",
+    description: "ROS based simulation and training.",
+    image: "/assets/ROS.gif",
+    href: "https://github.com/justneeraj12/",
   },
   {
     title: "TranslateBot",
     description: "Powerful Multilingual Translation Bot for Discord",
     image: "/assets/translate_bot.webm",
-    href: "https://translatebot.app/",
+    href: "https://github.com/justneeraj12/",
   },
   {
     title: "Wrona",
     description: "Robotics-focused technology company",
     image: "/assets/wrona.jpeg",
-    href: "https://www.wrona.com/",
+    href: "https://github.com/justneeraj12/",
   },
   {
     title: "This website",
@@ -190,9 +190,9 @@ export default function Home() {
               data-scroll-speed=".09"
               className="flex flex-row items-center space-x-1.5"
             >
-              <span className={styles.pill}>next.js</span>
-              <span className={styles.pill}>tailwindcss</span>
-              <span className={styles.pill}>typescript</span>
+              <span className={styles.pill}>R&D</span>
+              <span className={styles.pill}>Artifical Intelligence</span>
+              <span className={styles.pill}>Robotics</span>
             </div>
             <div>
               <h1
@@ -206,7 +206,7 @@ export default function Home() {
                   <br />
                 </span>
                 <span className="clash-grotesk text-gradient text-6xl 2xl:text-8xl">
-                  WendoJ.
+                  NeerajK.
                 </span>
               </h1>
               <p
@@ -215,8 +215,8 @@ export default function Home() {
                 data-scroll-speed=".06"
                 className="mt-1 max-w-lg tracking-tight text-muted-foreground 2xl:text-xl"
               >
-                An experienced full-stack website developer with a passion for
-                crafting unique digital experiences.
+                An experienced Researcher with a passion for
+                crafting Robotics & AI.
               </p>
             </div>
             <span
@@ -269,18 +269,18 @@ export default function Home() {
             className="my-14 flex max-w-6xl flex-col justify-start space-y-10"
           >
             <h2 className="py-16  pb-2 text-3xl font-light leading-normal tracking-tighter text-foreground xl:text-[40px]">
-              I&apos;m an experienced full-stack developer proficient in{" "}
+              I&apos;m an experienced & Learning development in{" "}
               <Link
-                href="https://create.t3.gg/"
+                href="https://github.com/justneeraj12/"
                 target="_blank"
                 className="underline"
               >
-                TypeScript, Tailwind, and Next.js
+                Unmanned Aerial Vehicles, Unmanned Underwater Vehicles, OpenCV
               </Link>{" "}
-              since 2021. My experience spans from startups to mid-sized
-              companies, where I&apos;ve been instrumental in the entire product
-              design process; from ideation and wireframing, through
-              prototyping, to the delivery of the final product, all while
+              since 2022. My experience spans from college projects to R&D 
+              Projects @ my institue, where I&apos;ve been instrumental in development
+              of UAVs and UUVs; from ideation and wireframing, through
+              prototyping, to the delivery of the results, all while
               efficiently collaborating with cross-functional teams.
             </h2>
             <div className="grid grid-cols-2 gap-8 xl:grid-cols-3">
@@ -323,11 +323,11 @@ export default function Home() {
               ✨ Projects
             </span>
             <h2 className="mt-3 text-4xl font-semibold tracking-tight tracking-tighter xl:text-6xl">
-              Streamlined digital experiences.
+              New & awesome tech.
             </h2>
             <p className="mt-1.5 text-base tracking-tight text-muted-foreground xl:text-lg">
-              I&apos;ve worked on a variety of projects, from small websites to
-              large-scale web applications. Here are some of my favorites:
+              I&apos;ve worked on a variety of projects, from small tello drone to
+              R&D on a new & exciting Multi-environmental Drones. Here are some of my favorites:
             </p>
 
             {/* Carousel */}
@@ -446,7 +446,7 @@ export default function Home() {
               I&apos;m currently available for freelance work and open to
               discussing new projects.
             </p>
-            <Link href="mailto:wendoj@proton.me" passHref>
+            <Link href="mailto:neeraj.2xx4@gmail.com" passHref>
               <Button className="mt-6">Get in touch</Button>
             </Link>
           </div>
