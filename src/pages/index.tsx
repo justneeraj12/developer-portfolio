@@ -279,7 +279,7 @@ export default function Home() {
               </Link>{" "}
               since 2022. My experience spans from college projects to R&D 
               Projects @ my institue, where I&apos;ve been instrumental in development
-              of UAVs and UUVs; from ideation and wireframing, through
+              of UAVs and UUVs; from ideation, through
               prototyping, to the delivery of the results, all while
               efficiently collaborating with cross-functional teams.
             </h2>
